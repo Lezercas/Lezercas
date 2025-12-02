@@ -1,16 +1,17 @@
-## Hi there 👋
+## Eliézer de Castro Vieira
 
-<!--
-**Lezercas/Lezercas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a third-year Internet Informatics student at IFRS and an extension fellow at CITec, working in software development, robotics, and electronic systems. I focus on creating practical technological solutions, contributing to innovation projects, and supporting educational activities.
 
-Here are some ideas to get you started:
+## Experience
+Development of web applications (front-end and back-end), API integration, and database-driven systems. I also teach programming classes for beginner and intermediate students and assist in producing educational materials related to computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+Software Engineering, web development, databases, backend optimization, and embedded systems.
+
+## Interests
+Projects involving software engineering, systems development, and applied technologies.
+
+## Contact
+**Email:** eliezercastrovlehotmail@gmail.com  
+**Phone:** +55 (53) 99958-4509
